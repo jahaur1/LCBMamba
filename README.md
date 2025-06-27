@@ -2,7 +2,7 @@
 
 ## 📌 Introduction
 
-LBCMamba is a model based on the Mamba architecture, designed for sequence modeling tasks. The project supports using either the official implementation (`mamba_ssm`) or our own approximate version (which has already been integrated into the model).
+LBCMamba is a model based on the Mamba architecture, designed for sequence modeling tasks. The project supports using either the official implementation (`mamba_ssm`) or approximate version (which has already been integrated into the model).
 ---
 
 ## 🚀 Quick Start
